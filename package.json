@@ -1,7 +1,7 @@
 {
-    "name": "bbot V5",
+    "name": "bbotV5",
     "version": "5.0.0",
-    "description": "Created captain",
+    "description": "captain",
     "main": "index.js",
     "node": "18",
     "type": "commonjs",
