@@ -1,25 +1,15 @@
 /*
 
- Base Created By Erlangga & DanzModsss
- Whatsapp : +6285880393403
- Telegram : t.me/DanzMods17
-
-  ( don't delete the creator's name, please respect it!! )
-  
-            Kata Kata Hari Ini
-      - "Bila kegagalan itu hujan, dan keberhasilan bagaikan matahari, maka butuh keduanya untuk melihat pelangi"
-      
-      - "Kesuksesan berawal dari misi dan tantangan, bukan berawal dari zona nyaman"
-  
-      ~DanzModss 12/04/2025
+ Base Created By captain
+ Whatsapp : +923101136915
 */
 
 const fs = require('fs')
 
 //settings bot
-global.owner = "6285880393403"
+global.owner = "923135067520"
 global.namabot = "𝐄𝐯𝐢𝐥 𝐂𝐫𝐚𝐬𝐡𝐞𝐫 𝐕𝟓"
-global.namaowner = "DanzModss"
+global.namaowner = "captain"
 global.linkTele = "t.me//DanzModss17"
 global.numberbot = "-" // Masukin Nomer Yang Ada di Database Dsni
 global.reply = "https://files.catbox.moe/n44mu9.jpg"
@@ -52,7 +42,7 @@ global.apikey = "ptla_bWNQIJpKJkPERlnQs8p2UUIZUYrTF0mESeTO7UM1z" //ptla
 global.capikey = "ptlc_e5HDwnIfiUDyDNst8501HOu0aeuSWxMmxKFWRyOjc" //ptlc
 
 // Ubah aja Ni Buat Cmd Proses, dan done
-global.linkOwner = "https://wa.me/6285880393403"
+global.linkOwner = "923101136915"
 global.linkGrup = "-"
 
 // Message
