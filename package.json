@@ -1,7 +1,7 @@
 {
-    "name": "Evil Crasher V5",
+    "name": "bbot V5",
     "version": "5.0.0",
-    "description": "Base Bot Created By Erlangga & DanzModss",
+    "description": "Created captain",
     "main": "index.js",
     "node": "18",
     "type": "commonjs",
@@ -13,9 +13,9 @@
         "multi-device",
         "Termux",
         "Acode",
-        "DanzEvil5"
+        "bbot5"
     ],
-    "author": "DanzModss",
+    "author": "captain",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
